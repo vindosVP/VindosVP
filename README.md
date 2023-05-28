@@ -1,6 +1,5 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-<details>
 <p align="center">
   <a href="https://github.com/VindosVP">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VindosVP&theme=transparent" />
@@ -15,7 +14,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VindosVP&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
 
 <p align="center">
   <a href="https://github.com/VindosVP">
