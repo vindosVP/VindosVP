@@ -1,6 +1,5 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-<p align="center">
 🚀 I'm a **Backend developer** with a **1.5** year of experience.
 
 🌱 I'm currently learning **Go (backend)**.
@@ -12,8 +11,8 @@
 💬 You can contact me:
   - ✈️ Telegram: [vindi98](https://t.me/vindi98)
   - 📧 Email: vaiminmail@gmail.com
-</p>
 
+<details>
 <p align="center">
   <a href="https://github.com/VindosVP">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VindosVP&theme=transparent" />
