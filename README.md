@@ -20,8 +20,6 @@
     <img src="https://komarev.com/ghpvc/?username=VindosVP&color=blue&style=flat)" />
   </a>
 </p>
-<!--
-**vindosVP/VindosVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🚀 I'm a **Backend developer** with a **1.5** year of experience.
 🌱 I'm currently learning **Go (backend)**.
@@ -33,3 +31,8 @@
 💬 You can contact me:
   - ✈️ Telegram: [vindi98](https://t.me/vindi98)
   - 📧 Email: vaiminmail@gmail.com
+
+<!--
+**vindosVP/VindosVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
