@@ -1,12 +1,12 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys!</h1>
 
-🚀 I'm a **Backend developer** with a **1.5** year of experience.
+🚀 I'm a **Backend developer** with a **2** year of experience.
 
 🌱 I'm currently learning **Go (backend)**.
 
 🧠 In stash:
 - Python 🐍
-- 1с)))) ✨
+- 1с ✨
 
 💬 You can contact me:
   - ✈️ Telegram: [vindi98](https://t.me/vindi98)
