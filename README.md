@@ -2,11 +2,10 @@
 
 🚀 I'm a **Backend developer** with a **2** year of experience.
 
-🌱 I'm currently learning **Go (backend)**.
-
 🧠 In stash:
-- Python 🐍
-- 1с ✨
+- Golang 
+- Python 
+- 1с
 
 💬 You can contact me:
   - ✈️ Telegram: [vindi98](https://t.me/vindi98)
